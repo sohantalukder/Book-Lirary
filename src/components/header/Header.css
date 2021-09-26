@@ -1,0 +1,20 @@
+.header {
+  background-color: #101b21;
+  padding: 1rem 0;
+  margin-bottom: 50px;
+}
+.container {
+  width: 78%;
+  margin: auto;
+  color: #fff;
+}
+.container h1 {
+  margin: 0;
+  padding-bottom: 5px;
+  font-size: 2rem;
+}
+.container h4 {
+  margin: 0;
+  padding-bottom: 5px;
+  font-size: 1.2rem;
+}

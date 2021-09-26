@@ -1,0 +1,56 @@
+.book-self {
+  display: flex;
+  border: 0.1px solid #c7c7c7;
+  padding: 2px;
+  align-items: center;
+}
+
+.book-self .image img {
+  width: 100px;
+  padding-right: 20px;
+}
+
+.book-self .book-details h3 {
+  margin: 0;
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding-bottom: 5px;
+  padding-top: 3px;
+}
+.book-self .book-details p {
+  margin: 0;
+  padding-bottom: 5px;
+  font-size: 0.7rem;
+}
+
+.discount-price {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #60d40d;
+  padding-right: 10px;
+}
+.oldPrice {
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+.add-cart {
+  background-color: #f25822;
+  padding: 0.4rem 1rem;
+  border: 0;
+  color: #fff;
+  margin-top: 2px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 600;
+  transition: all 0.3s;
+}
+.add-cart svg {
+  padding-right: 5px;
+}
+.add-cart:hover {
+  background-color: #77b748;
+}
+.order {
+  font-weight: 600;
+  color: #f25822;
+}

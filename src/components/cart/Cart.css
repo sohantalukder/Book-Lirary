@@ -1,0 +1,38 @@
+.cart {
+  background-color: #101b21;
+  color: #fff;
+  margin: 0 5%;
+  padding: 40px 0;
+}
+.cart h2 {
+  margin: 0;
+  padding-bottom: 1.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: center;
+}
+.price-details {
+  padding: 0 5%;
+}
+.price-details h5,
+h4 {
+  margin: 0;
+  padding-bottom: 15px;
+}
+.ordered-item sp {
+  display: flex;
+}
+button {
+  margin-top: 20px;
+  background-color: #f25822;
+  color: #fff;
+  width: 100%;
+  padding: 0.5rem 0;
+  border: 0;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+button:hover {
+  background-color: #77b748;
+}
